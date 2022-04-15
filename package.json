@@ -1,0 +1,23 @@
+{
+  "name": "sure-ext-js-ts",
+  "displayName": "Sure Ext JS/TS",
+  "description": "Description",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "DigitalBrainstem.javascript-ejs-support",
+    "Tobermory.es6-string-html",
+    "dbaeumer.vscode-eslint",
+    "xabikos.JavaScriptSnippets",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "eseom.nunjucks-template",
+    "debens.sort-js-object",
+    "amatiasq.sort-imports"
+  ]
+}
